@@ -7,3 +7,6 @@ The main script is arc_solve/solve.py. This requires a redis server running at p
 Required dependencies are tqdm, numpy, scipy, skimage, attrs, cattrs, nest_asyncio, redis-py, matplotlib, anthropic (not actually needed), and openai==0.28.1. (I might make an actual requirements.txt file later.)
 
 Data can be loaded from jsons which can be found [at this drive link](https://drive.google.com/file/d/1t3LmW0oxnRHTksgeUrMwPYZMZ8dOb4X4/view?usp=sharing) and visualized and viewed using arc_solve/load_and_viz.py. (I may add additional plots and display later.)
+
+
+.
